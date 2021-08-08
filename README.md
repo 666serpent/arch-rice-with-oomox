@@ -2,9 +2,10 @@
 ![screenshot 2](https://user-images.githubusercontent.com/38641476/128626115-71796588-cebe-4424-909a-9b0f9ec26eb9.png)
 ![screenshot 1](https://user-images.githubusercontent.com/38641476/128626120-4454df34-4b4c-440c-8b56-638e7d51af46.png)
 
-SOME NOTES:
+# SOME NOTES:
 
-found this rice on some github/reddit page and stole everything for my use so here it is
+i stole everything from this:
+# https://github.com/donovanglover/dotfiles
 
 wal -i path-to-file | change color theme according to a wallpaper
 
@@ -23,3 +24,10 @@ for spotify there is Spicetify but I didn't managed to make it work at that mome
 Awesome for fonts in polybar and also some of the nerd fonts https://github.com/ryanoasis/nerd-fonts
 
 zsh is the main shell with oh-my-zsh
+
+win's version of dota doesn't work, you need to install it from linux's steam 
+
+# some links
+https://github.com/adi1090x/polybar-themes
+https://github.com/fosslife/awesome-ricing
+https://github.com/adi1090x/plymouth-themes
