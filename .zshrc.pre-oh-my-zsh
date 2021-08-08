@@ -1,0 +1,11 @@
+# Lines configured by zsh-newuser-install
+unsetopt beep
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/three6serpent/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+PS1=%F{#585858}'⇒ '%f
