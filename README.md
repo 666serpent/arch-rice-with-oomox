@@ -1,3 +1,4 @@
+SOME NOTES:
 found this rice on some github/reddit page and stole everything for my use so here it is
 
 wal -i path-to-file | change color theme according to a wallpaper
