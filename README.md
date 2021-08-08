@@ -22,4 +22,4 @@ for spotify there is Spicetify but I didn't managed to make it work at that mome
 
 Awesome for fonts in polybar and also some of the nerd fonts https://github.com/ryanoasis/nerd-fonts
 
-zsh is the main shell
+zsh is the main shell with oh-my-zsh
