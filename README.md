@@ -12,7 +12,7 @@ you need a BetterDiscord to make it work with discord, use pywal-discord or wal-
 
 nvim for text files
 
-kitty is main terminal
+kitty is the main terminal
 
 .config/sxhkd/sxhkdrc - binds
 
