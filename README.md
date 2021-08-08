@@ -2,7 +2,7 @@
 ![screenshot 2](https://user-images.githubusercontent.com/38641476/128626115-71796588-cebe-4424-909a-9b0f9ec26eb9.png)
 ![screenshot 1](https://user-images.githubusercontent.com/38641476/128626120-4454df34-4b4c-440c-8b56-638e7d51af46.png)
 
-# SOME NOTES:
+# NOTES:
 
 i stole everything from this:
 # https://github.com/donovanglover/dotfiles
@@ -27,7 +27,7 @@ zsh is the main shell with oh-my-zsh
 
 win's version of dota doesn't work, you need to install it from linux's steam 
 
-# some links
+# LINKS
 https://github.com/adi1090x/polybar-themes
 https://github.com/fosslife/awesome-ricing
 https://github.com/adi1090x/plymouth-themes
